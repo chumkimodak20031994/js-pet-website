@@ -219,7 +219,7 @@ const displayCategories = (categories) => {
     const btn = document.createElement("button");
     btn.style.padding = "16px";
     btn.className = `
-        btn 
+      btn 
       border 
       rounded-2xl 
       flex 
